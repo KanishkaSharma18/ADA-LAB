@@ -48,6 +48,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0155-min-stack) |
+| [0983-validate-stack-sequences](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0983-validate-stack-sequences) |
 ## Design
 |  |
 | ------- |
@@ -57,8 +58,13 @@
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0860-design-circular-queue) |
+| [0983-validate-stack-sequences](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0983-validate-stack-sequences) |
 ## Queue
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0860-design-circular-queue) |
+## Simulation
+|  |
+| ------- |
+| [0983-validate-stack-sequences](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0983-validate-stack-sequences) |
 <!---LeetCode Topics End-->
