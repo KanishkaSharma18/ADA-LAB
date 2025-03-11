@@ -36,4 +36,12 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
