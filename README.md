@@ -23,4 +23,16 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0102-binary-tree-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0142-linked-list-cycle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
