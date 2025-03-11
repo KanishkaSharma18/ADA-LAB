@@ -35,11 +35,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
