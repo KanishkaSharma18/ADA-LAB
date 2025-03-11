@@ -43,11 +43,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0227-basic-calculator-ii) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0227-basic-calculator-ii) |
 | [0983-validate-stack-sequences](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0983-validate-stack-sequences) |
 ## Design
 |  |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0983-validate-stack-sequences) |
+## Math
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
