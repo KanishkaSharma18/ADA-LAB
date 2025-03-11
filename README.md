@@ -32,6 +32,7 @@
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0142-linked-list-cycle-ii) |
+| [0860-design-circular-queue](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0860-design-circular-queue) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,13 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0155-min-stack) |
+| [0860-design-circular-queue](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0860-design-circular-queue) |
+## Array
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
