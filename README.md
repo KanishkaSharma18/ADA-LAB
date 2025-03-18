@@ -32,12 +32,14 @@
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0148-sort-list) |
 | [0860-design-circular-queue](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0860-design-circular-queue) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
@@ -73,4 +75,16 @@
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0227-basic-calculator-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/KanishkaSharma18/ADA-LAB/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
